@@ -1,0 +1,46 @@
+<%= form_with(model: user) do |form| %>
+      <%= render 'shared/errors', object: user %>
+    <div>
+      <!--Vou pegar esses dados desse formulario--!>
+      <%= form.label :full_name, style: "display: block" %>
+      <%= form.text_field :full_name %>
+    </div>
+
+    <div>
+      <%= form.label :email, style: "display: block" %>
+      <%= form.text_field :email %>
+    </div>
+
+    <div>
+      <%= form.label :password, style: "display: block" %>
+      <%= form.text_field :password %>
+    </div>
+    <div>
+      <%= form.label :gender, style: "display: block" %>
+      <%= form.text_field :gender %>
+    </div>
+
+    <div>
+      <%= form.label :country, style: "display: block" %>
+      <%= form.text_field :country %>
+    </div>
+
+    <div>
+      <%= form.label :date_of_birth, style: "display: block" %>
+      <%= form.date_field :date_of_birth %>
+    </div>
+
+    <div>
+      <%= form.label :phone, style: "display: block" %>
+      <%= form.text_field :phone %>
+    </div>
+
+    <div>
+      <%= form.label :profession, style: "display: block" %>
+      <%= form.text_field :profession %>
+    </div>
+    <div>
+      <%= form.submit %>
+    </div>'
+<% end %>
+
