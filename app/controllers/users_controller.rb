@@ -23,7 +23,7 @@ class UsersController < ApplicationController
   # POST /users or /users.json
   def create
     @user = User.new(user_params)
-    @user.save ? (redirect_to professionals_url(@user)) : (render :new)
+    @user.save ? (redirect_to professionals_url(user_id: @user)) : (render :new)
   end
 
   # PATCH/PUT /users/1 or /users/1.json

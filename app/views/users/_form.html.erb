@@ -1,43 +1,50 @@
-<%= form_with(model: user) do |form| %>
-      <%= render 'shared/errors', object: user %>
-    <div>
-      <!--Vou pegar esses dados desse formulario--!>
+<%= form_with(model: user,data: {turbo:false}) do |form| %>
+
+  <div>
       <%= form.label :full_name, style: "display: block" %>
       <%= form.text_field :full_name %>
-    </div>
+        <%= render 'shared/errors', object: user, field: :full_name %>
+  </div>
 
     <div>
       <%= form.label :email, style: "display: block" %>
       <%= form.text_field :email %>
+      <%= render 'shared/errors', object: user, field: :full_name %>
     </div>
 
     <div>
       <%= form.label :password, style: "display: block" %>
       <%= form.text_field :password %>
+      <%= render 'shared/errors', object: user, field: :full_name %>
     </div>
     <div>
       <%= form.label :gender, style: "display: block" %>
       <%= form.text_field :gender %>
+      <%= render 'shared/errors', object: user, field: :full_name %>
     </div>
 
     <div>
       <%= form.label :country, style: "display: block" %>
       <%= form.text_field :country %>
+      <%= render 'shared/errors', object: user, field: :full_name %>
     </div>
 
     <div>
       <%= form.label :date_of_birth, style: "display: block" %>
       <%= form.date_field :date_of_birth %>
+      <%= render 'shared/errors', object: user, field: :full_name %>
     </div>
 
     <div>
       <%= form.label :phone, style: "display: block" %>
       <%= form.text_field :phone %>
+      <%= render 'shared/errors', object: user, field: :full_name %>
     </div>
 
     <div>
       <%= form.label :profession, style: "display: block" %>
       <%= form.text_field :profession %>
+      <%= render 'shared/errors', object: user, field: :full_name %>
     </div>
     <div>
       <%= form.submit %>

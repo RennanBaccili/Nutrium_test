@@ -5,18 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ee74fc-9490-4fb5-b568-e3288cb3ed21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/images/Logo/logo-branco.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/Logo/logo-verde.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/register/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/resets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/professionals_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/professionals/_main.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/professionals/_menu_profissional.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/professionals/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/shared/_errors.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/shared/_menu.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/users/_form.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/calendar-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/clientes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/house-door-fill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/mensagem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/models.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/receitas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/substituição.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/icons/suit-heart-fill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/profissional/menu-prof.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/config/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Logo/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/logo/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Logo/logo-branco.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/logo/logo-branco.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Logo/logo-verde.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/logo/logo-verde.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Logo/marca.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/logo/marca.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Logo/setinha.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/logo/setinha.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Logo/simbolo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/logo/simbolo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/resets.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/resets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/professionals_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/professionals_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/professionals/_menu_profissional.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/professionals/_menu_profissional.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/professionals/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/professionals/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/shared/_errors.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/shared/_errors.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/shared/_menu.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/shared/_menu.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/users/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/_form.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +51,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,27 +72,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/rennan/RubymineProjects/nutrium/app/assets/images/home",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ruby.rails.projectView.checked": "true",
-    "ruby.structure.view.model.defaults.configured": "true",
-    "settings.editor.selected.configurable": "preferences.pathVariables",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rennan/RubymineProjects/nutrium&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images/icons" />
       <recent name="$PROJECT_DIR$/app/assets/images/home" />
       <recent name="$PROJECT_DIR$/app/views/users" />
     </key>
@@ -77,12 +104,12 @@
       <recent name="$PROJECT_DIR$/app/views" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.0.0.0.0:3000">
+  <component name="RunManager" selected="Rails.nutrium_Test">
     <configuration name="0.0.0.0:3000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://0.0.0.0:3000/">
       <method v="2" />
     </configuration>
-    <configuration name="nutrium" type="RailsRunConfigurationType" factoryName="Rails">
-      <module name="nutrium" />
+    <configuration name="nutrium_Test" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="nutrium_Test" />
       <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -107,6 +134,30 @@
     </configuration>
     <configuration name="spec: nutrium" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="nutrium" />
+      <predefined_log_file enabled="true" id="RUBY_RAKE" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: nutrium_Test" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="nutrium_Test" />
       <predefined_log_file enabled="true" id="RUBY_RAKE" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -156,6 +207,33 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="test: nutrium_Test" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="nutrium_Test" />
+      <predefined_log_file enabled="true" id="RUBY_RAKE" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.0.0.0.0:3000" />
@@ -173,7 +251,12 @@
       <updated>1701165029851</updated>
       <workItem from="1701165030985" duration="4910000" />
       <workItem from="1701171381631" duration="9722000" />
-      <workItem from="1701187220218" duration="12721000" />
+      <workItem from="1701187220218" duration="16845000" />
+      <workItem from="1701253146895" duration="16670000" />
+      <workItem from="1701276412910" duration="1452000" />
+      <workItem from="1701280125077" duration="2470000" />
+      <workItem from="1701284438939" duration="1168000" />
+      <workItem from="1701288300730" duration="1546000" />
     </task>
     <servers />
   </component>

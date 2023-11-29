@@ -27,7 +27,7 @@ development:
   # To create additional roles in PostgreSQL see `$ createuser --help`.
   # When left blank, PostgreSQL will use the default role. This is
   # the same name as the operating system user running Rails.
-  #username: nutrium
+  #username: nutrium_Test
 
   # The password associated with the PostgreSQL role (username).
   #password:
@@ -80,5 +80,5 @@ test:
 production:
   <<: *default
   database: nutrium_production
-  username: nutrium
+  username: nutrium_Test
   password: <%= ENV["NUTRIUM_DATABASE_PASSWORD"] %>

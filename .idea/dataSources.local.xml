@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="RM-232.10227.6">
+    <data-source name="nutrium: test" uuid="efda3eb0-5a98-4635-99f3-eedd2951e566">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="nutrium: development" uuid="bb523f6a-596d-4892-8242-ad0e315b38be">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="nutrium: production" uuid="f1e23813-2319-4470-91b3-f59f88c2bf06">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>nutrium</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="">
   <head>
     <title>Nutrium</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -7,9 +7,16 @@
     <%= csp_meta_tag %>
     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
     <%= javascript_importmap_tags %>
+    <%= turbo_include_tags %>
   </head>
 
   <body>
+  <div class="professional">
+    <% if request.path == "/professionals" %>
+      <%=render 'professionals/menu_profissional' %>
+    <% end %>
+  </div>
+
     <%= yield %>
   </body>
 </html>
